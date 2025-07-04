@@ -1,0 +1,10 @@
+[project]
+name = "assignment"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "educhain>=0.3.10",
+    "mcp[cli]>=1.10.1",
+]
